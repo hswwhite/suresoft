@@ -5,6 +5,8 @@ int g_var1 = 0;
 void exFunc(int * var);
 int inputVarTest(int a){
 	int ret = 0;
+	int ret1 = 0;
+	int ret2 = 0;
 	
 	if (a == 100 && g_var1 == 10) {
 		ret = 100;
