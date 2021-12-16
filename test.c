@@ -31,9 +31,6 @@ int main()
 	int num1 = 10;
     int num2 = -10;
 
-	printf("10진 정수 출력(부호O) : %d\n", num2);
-    printf("10진 정수 출력(부호X) : %u\n", num1);
-	printf("error message"); 
 return 0;
 }
 
